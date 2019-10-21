@@ -17,3 +17,4 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * https://web.parveenbhadoo.com
 * https://telegram-web.netlify.com
 * https://telegram.updog.co
+* https://telegram.computer
