@@ -1,0 +1,12 @@
+# web.telegram.org alternative client
+
+Un-Official Un-edited Telegram Web Client with Different Domains
+
+Code from https://github.com/zhukov/webogram/tree/gh-pages
+
+## List of Domains
+
+* https://telegram.happ.ga
+* https://telegram.hashapp.ga
+* https://telegram.hashhackerapps.ga
+* https://web.parveenbhadoo.com
