@@ -8,6 +8,6 @@
         "telegram"
     ],
     "env": {
-        "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-static"
+        "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
     }
 }
