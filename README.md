@@ -8,6 +8,10 @@ Code from https://github.com/zhukov/webogram/tree/gh-pages
 
 Telegram is banned in several countries, in India Telegram is blocked on several networks including Jio and Airtel. So in this repo i will continuously provide new domains to access Telegram without compromising privacy or security of your data.
 
+## Domains Current Status, Availability and Downtime
+
+* https://telegram-status.hashhackers.com
+
 ## List of Domains
 
 * https://web.telegram.org (hosted on Telegram servers, Permanent Domain)
@@ -19,6 +23,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * https://telegram.updog.co (hosted on Updog.co, Free Forever)
 * https://telegram.computer (hosted on GitHub pages, Available until 20 October 2020)
 * https://zhukov.github.io/webogram (hosted on GitHub pages, Permanent Domain)
+* https://telegram-web-us.herokuapp.com (hosted on Heroku Free Plan, App Sleeps)
 
 ## Deploy to Github Pages (Custom Domain Supported)
 
