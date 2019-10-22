@@ -20,7 +20,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * https://telegram.computer (hosted on GitHub pages, Available until 20 October 2020)
 * https://zhukov.github.io/webogram (hosted on GitHub pages, Permanent Domain)
 
-## Deploy on your own Domain
+## Deploy to Github Pages (Custom Domain Supported)
 
 * Fork this Repo
 * Go to Settings and Setup Github Pages
@@ -28,16 +28,16 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * You can add custom domain if you want.
 * Create a CNAME Record in your DNS with value username.github.io (replace username with your username)
 
-## Deploy to Zeit.co (now.sh)
-
-[![Deploy](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/ParveenBhadooOfficial/web.telegram.org)
-
-## Deploy to Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-## Deploy to Server
+## Deploy to Server (Custom Domain Supported)
 
 * Download the Repo.
 * Extract in your server directory.
 * Open your site address.
+
+## Deploy to Zeit.co (now.sh) (Custom Domain Supported)
+
+[![Deploy](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/ParveenBhadooOfficial/web.telegram.org)
+
+## Deploy to Heroku (Custom Domain Supported in Paid Plans)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
