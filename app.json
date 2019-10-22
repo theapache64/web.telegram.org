@@ -1,4 +1,13 @@
 {
-  "name": "Telegram Web",
-  "repository": "https://github.com/ParveenBhadooOfficial/web.telegram.org"
+    "name": "Telegram Web",
+    "description": "Welcome to the official Telegram web-client.",
+    "website": "https://github.com/ParveenBhadooOfficial/web.telegram.org",
+    "repository": "https://github.com/ParveenBhadooOfficial/web.telegram.org",
+    "logo": "https://telegram.org/img/t_logo.png",
+    "keywords": [
+        "telegram"
+    ],
+    "env": {
+        "BUILDPACK_URL": "https://github.com/duythien/heroku-buildpack-php"
+    }
 }
